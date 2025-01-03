@@ -55,4 +55,4 @@ Follow these steps to set up and run the Meow Word project on your local machine
 ![Gameplay](screenshot/image.png)
 ---
 
-[↩️ Back to profile](README.md)
+[↩️ Back to profile](https://github.com/Momojoj/Momojoj.github.io/blob/main/README.md)

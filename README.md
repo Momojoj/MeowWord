@@ -1,4 +1,4 @@
-# Meow Word
+# Meow Word 🐈
 
 Meow Word is a fun and educational English vocabulary game. Players take on the role of a mouse, tasked with selecting the correct translations of given English words. The game is a race against time, as a cat closes in on the player!  
 
@@ -6,20 +6,20 @@ Meow Word is a fun and educational English vocabulary game. Players take on the 
 - **Incorrect answers or no answer**: The cat moves closer.
 - The game ends when the cat catches the mouse.
 
-## Features
+## Features 🧩
 
 - Interactive vocabulary-building gameplay.
 - Designed for English learners of all levels.
 - Cute and engaging visuals with a mouse vs. cat theme.
 
-## Built With
+## Built With ✨
 
 - **Java SDK 19**
 - **SQLite** for storing word data and translations.
 
 ---
 
-## Installation Guide
+## Installation Guide 💡
 
 Follow these steps to set up and run the Meow Word project on your local machine:
 
@@ -43,7 +43,7 @@ Follow these steps to set up and run the Meow Word project on your local machine
     - Open "Meow Word.jar"
 ---
 
-## Usage
+## Usage 💡
 
 1. Launch the game.
 2. Answer the vocabulary questions by selecting the correct translation.
@@ -51,6 +51,8 @@ Follow these steps to set up and run the Meow Word project on your local machine
 
 ---
 
-## Screenshots
+## Screenshots 🎴
 ![Gameplay](screenshot/image.png)
 ---
+
+[↩️ Back to profile](README.md)

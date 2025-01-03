@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="MeowWord" default="dist" basedir=".">
+    <description>Builds, tests, and runs your project.</description>
+    <import file="nbproject/build-impl.xml"/>
+
+    <target name="-post-jar">
+        <property name="store.jar.name" value="MeowWord.jar"/>
+        <property name="lib.dir" value="lib"/>
+
+        <mkdir dir="dist/lib"/>
+        <copy todir="dist/lib">
+            <fileset dir="${lib.dir}" includes="*.jar"/>
+        </copy>
+
+        <property name="resources.dir" value="resources"/>
+        <mkdir dir="dist/resources"/>
+        <copy todir="dist/resources">
+            <fileset dir="${resources.dir}"/>
+        </copy>
+    </target>
+</project>

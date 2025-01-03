@@ -32,7 +32,7 @@ Follow these steps to set up and run the Meow Word project on your local machine
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/NutNaphop/MeowWord.git
+    git clone https://github.com/momojoj/MeowWord.git
     cd meow-word
     ```
 2. **If you use Netbean you can open with ant and build it Directly**:
